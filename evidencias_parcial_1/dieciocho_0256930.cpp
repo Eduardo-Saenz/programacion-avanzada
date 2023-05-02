@@ -5,7 +5,7 @@
 //0256930 Eduardo Alejandro Sáenz Kammermayr
 
 #include <iostream>
-#include "dieciocho_0256930.h"
+#include "indexof_0256930.h"
 using namespace std;
 
 int main(int args, const char* argv[])
