@@ -30,7 +30,7 @@ int main(int argc, char const *argv[])
 //Respuesta 5:
 #include <iostream>
 #include "pais.h"
-#define constante "Eduardo Saenz kammermayr"
+#define constante "Eduardo Sáenz Kammermayr"
 
 int main(int argc, char const *argv[])
 {

@@ -17,7 +17,6 @@
 #include "trece_0256930.h";
 #include "catorce_0256930.h";
 
-// "\033c" borrar :O
 int main()
 {
 	int opcion{ 0 };

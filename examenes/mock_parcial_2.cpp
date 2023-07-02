@@ -22,7 +22,7 @@ int main(int argc, char const *argv[])
 //5.- Escriba un programa que le permita al usuario ingresar n cantidad de elementos del tipo de una estructura Alumno,
 //    la cual tiene como elementos 
 #include <iostream>
-#include "alumno.h"
+#include "Alumno.h"
 int main(int argc, char const *argv[])
 {
     Alumno * datos;
